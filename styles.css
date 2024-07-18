@@ -40,7 +40,7 @@ body{
  Landing Page
 */
 .landing{
-          background: white url(Images/vacation.jpg) no-repeat scroll center ; height: 100vh;
+          background: white url(Images1/vacation.jpg) no-repeat scroll center ; height: 100vh;
 }
 .landing .wrapper{
        background-color: rgba(0,0,0,0.5);
